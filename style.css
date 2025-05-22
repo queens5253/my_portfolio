@@ -72,7 +72,7 @@ h2 {
 
 .clients .logos {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   flex-wrap: nowrap;
   gap: 20px;
   overflow-x: auto;
