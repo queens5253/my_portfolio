@@ -73,10 +73,8 @@ h2 {
 .clients .logos {
   display: flex;
   justify-content: space-around;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 20px;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
   margin-top: 20px;
 }
 
